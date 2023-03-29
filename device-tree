@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="device/Rmx2185/C" name="techyminati/android_device_realme_RMX2185.git" remote="github" revision="lineage-18.1" />
+ <project path="device/Rmx2185/g35" name="techyminati/android_device_realme_RMX2185.git" remote="github" revision="ancient-ten-weaboo" />
+ <project path="vendor/Rmx2185" name="AndroidBlobs/vendor_realme_RMX2185.git" remote="github" revision="master" />
+ <project path="kernel/Rmx2185/C" name="realme-kernel-opensource/realmeC11_realmeC12_realmeC15_AndroidQ-kernel-source.git/" remote="github" revision="lineage-18.1" />
+ 
+</manifest>
